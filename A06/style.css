@@ -1,4 +1,3 @@
-/* Header Styles */
 h2 {
     font-size: 170%;
     color: #800000;
@@ -11,12 +10,10 @@ h3 {
     text-indent: 30px;
 }
 
-/* Shadow Class for Text Shadow */
 .shadow {
     text-shadow: 2px 2px 4px #800000;
 }
 
-/* Links in Italics and Hover/Focus Effect */
 a {
     text-decoration: none;
 }
@@ -27,7 +24,6 @@ a:focus {
     text-decoration: underline;
 }
 
-/* Center Paragraph in Footer */
 footer p {
     text-align: center;
 }
